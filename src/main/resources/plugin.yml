@@ -1,0 +1,6 @@
+name: Link
+version: '1.0'
+main: net.toofiy.link.LinkBootstrap
+api-version: 1.19
+commands:
+  links:
